@@ -1,7 +1,7 @@
 {
   "name": "ip2countrify",
   "version": "0.0.1",
-  "description": "A Node.js wrapper for IP2Country JSON API https://ip2country.info",
+  "description": "A Node.js wrapper for IP2Country JSON API",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
