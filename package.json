@@ -1,0 +1,24 @@
+{
+  "name": "ip2countrify",
+  "version": "0.0.1",
+  "description": "A Node.js wrapper for IP2Country JSON API https://ip2country.info",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "geoip",
+    "geolocation"
+  ],
+  "author": "Sergej Müller",
+  "homepage": "https://ip2country.info",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sergejmueller/ip2countrify.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.1"
+  }
+}
