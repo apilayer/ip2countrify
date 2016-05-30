@@ -4,6 +4,9 @@ ip2countrify
 `ip2countrify` is a memory-friendly and dependencies-free Node.js module for retrieving country information via https://ip2country.info JSON API. With support for IPv4 and IPv6 addresses.
 
 
+[![Dependency Status](https://david-dm.org/sergejmueller/ip2countrify.svg)](https://david-dm.org/sergejmueller/ip2countrify)
+
+
 Install
 -----
 
