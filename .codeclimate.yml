@@ -1,11 +1,3 @@
-engines:
-  eslint:
-    enabled: true
-  duplication:
-    enabled: true
-    exclude_paths:
-    - test/
-    - examples/
-    config:
-      languages:
-        - javascript
+exclude_paths:
+- test/**/*
+- examples/**/*
