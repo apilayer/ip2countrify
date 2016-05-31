@@ -1,3 +1,10 @@
+### v0.0.4 (2016-05-31)
+
+* Fix Code Climate issues
+* Add `done` callback function to `test.js`
+* Add badges to README
+
+
 ### v0.0.3 (2016-05-30)
 
 * Add changelog
