@@ -6,6 +6,7 @@ ip2countrify
 
 [![Dependency Status](https://david-dm.org/sergejmueller/ip2countrify.svg)](https://david-dm.org/sergejmueller/ip2countrify)
 [![Code Climate](https://codeclimate.com/github/sergejmueller/ip2countrify/badges/gpa.svg)](https://codeclimate.com/github/sergejmueller/ip2countrify)
+[![Build Status](https://travis-ci.org/sergejmueller/ip2countrify.svg?branch=master)](https://travis-ci.org/sergejmueller/ip2countrify)
 
 
 Install
