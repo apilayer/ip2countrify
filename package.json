@@ -12,7 +12,10 @@
         "geolocation",
         "country"
     ],
-    "author": "Sergej Müller",
+    "author": {
+        "name": "Sergej Müller",
+        "url": "https://sergejmueller.github.io"
+    },
     "homepage": "https://ip2country.info",
     "repository": {
         "type": "git",
