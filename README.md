@@ -22,13 +22,13 @@ Usage
 -----
 
 ```javascript
-var ip2countrify = require('ip2countrify');
+var ip2countrify = require( 'ip2countrify' );
 
 ip2countrify.lookup(
     '5.6.7.8',
-    function(ip, results, error) {
+    function( ip, results, error ) {
         if ( error ) {
-            return console.warn('An error has occurred: ' + error);
+            return console.warn( 'An error has occurred: ' + error );
         }
 
         console.log(
@@ -37,10 +37,21 @@ ip2countrify.lookup(
         console.log(
             'countryCode: ' + results.countryCode,
             'countryCode3: ' + results.countryCode3,
-            'countryName: ' + results.countryName
+            'countryName: ' + results.countryName,
+            'countryEmoji: ' + results.countryEmoji
         );
     }
 );
+```
+
+Output
+------
+```
+API results for 5.6.7.8
+countryCode: DE
+countryCode3: DEU
+countryName: Germany
+countryEmoji: 🇩🇪
 ```
 
 
