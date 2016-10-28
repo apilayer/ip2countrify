@@ -1,3 +1,19 @@
+# ip2coutrify / CHANGELOG
+
+
+### v0.2.0 (2016-10-27)
+
+##### New
+* Add `yarn.lock` file
+* Add `.eslintignore` file
+* Add `eslint-plugin-node` linter module
+* Set engine node version to `>=0.10`
+
+##### Changes
+* Rename `.eslintrc` to `.eslintrc.json`
+* Small code and text cleanups
+
+
 ### v0.1.0 (2016-10-09)
 
 ##### New
